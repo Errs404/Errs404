@@ -5,6 +5,10 @@
 :page_with_curl: I'm currently learning:
 - HTML
 - CSS
+- PHP
 - Javascript
+- PYTHON
+- C++
+- TYPESCRIPT
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Errs404&show_icons=true&theme=radical)
