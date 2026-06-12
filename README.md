@@ -52,11 +52,23 @@ I have 3+ years of programming experience across web development, database-drive
 - Managing hosting, VPS, backups, domains, and deployment workflows
 - Writing clear documentation for setup, usage, and maintenance
 
-## GitHub Stats
+## GitHub Insights
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Errs404&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errs404&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Errs404&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Errs404&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img height="165" src="https://streak-stats.demolab.com?user=Errs404&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=Errs404&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4" alt="GitHub Trophies" />
+</p>
+
+<p align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Errs404&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ## Contact
